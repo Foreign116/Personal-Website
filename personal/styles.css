@@ -1,0 +1,170 @@
+#topbar img {
+	position: relative;
+	padding:0;
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	border:2px solid #E9E0DB;
+}
+body {
+	margin: 0;
+	padding: 0;
+	margin:auto;
+	min-width:600px;
+	max-width:2000px;
+	background-color:#CCCCCC;
+}
+#topbar button {
+	position: relative;
+	width: 100px;
+	height: 50px;
+	font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+	top: 75px;
+	border-radius: 50px;
+	color: black;
+	background-color: white;
+  	border:2px solid #E9E0DB;
+  	font-weight: bold;
+  	font-size: 1em;
+  	background-color: #C9A798;
+  	margin-left: auto;
+  	margin-right: auto;
+  	z-index: 1;
+  	cursor: pointer;
+
+}
+#topbar {
+	text-align: center;
+	background-color:#F9F6F4;
+	width: 100%;
+	height: 330px;
+	margin-bottom: 10px;
+	padding-top: 20px;
+	border: 2px solid #E9E0DB;
+}
+#break {
+	clear: both;
+}
+#name {
+	position: relative;
+	font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+	margin: 0;
+	padding:0;
+	font-size: 3.0em;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 250px;
+	top: -135px;
+	color: black;
+}
+.indent {
+	margin-left: 10px;
+}
+#edu h2 {
+	font-size: 2.0em;
+	text-decoration: underline;
+}
+#edu p {
+	color: black;
+	font-weight: bold;
+}
+#edu li {
+	color: black;
+	font-weight: bold;
+	margin-left: 3px;
+}
+#edu {
+	padding-top: 0px;
+	height: 100%;
+	width: 100%;
+	border-top: none;
+	font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+	border-bottom: 2px solid #E9E0DB;
+	padding-bottom: 9px;
+}
+#xp h2 {
+	font-size: 2.0em;
+	text-decoration: underline;
+}
+#xp {
+	padding-top: 0px;
+	height: 100%;
+	width: 100%;
+	border-top: none;
+	font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+	border-bottom: 2px solid #E9E0DB;
+	padding-bottom: 9px;
+}
+#xp p {
+	color: black;
+	font-weight: bold;
+}
+#xp li {
+	color: black;
+	font-weight: bold;
+	margin-left: 3px;
+} 
+#skilz {
+	padding-top: 0px;
+	height: 100%;
+	width: 100%;
+	border-top: none;
+	font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+	border-bottom: 2px solid #E9E0DB;
+	padding-bottom: 9px;
+}
+#skilz h2 {
+	font-size: 2.0em;
+	text-decoration: underline;
+}
+#skilz p {
+	color: black;
+	margin-bottom: 3px;
+	font-weight: bold;
+	}
+#skilz td {
+	color: black;
+	padding-right: 10px;
+	font-weight: bold;
+} 
+#skilz li {
+	color: black;
+	font-weight: bold;
+	}
+#skilz span {
+	font-size: 1.20em;
+	vertical-align: middle;
+}
+#content {
+	margin-left:auto;
+    margin-right:auto;
+    width:100%;
+    height:100%;
+}
+#pro h2 {
+	font-size: 2.0em;
+	text-decoration: underline;
+}
+#pro {
+	font-weight: bold;
+	font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+	padding-top: 0px;
+	padding-bottom: 9px;
+}
+#pro h3 {
+  	padding:0;
+  	margin-left: 10px;
+  	margin-bottom: 2px;
+}
+#pro p {
+  padding:0;
+  margin:0;
+  margin-left: 27px;
+}
+#pro span {
+	font-size: 1.20em;
+	vertical-align: middle;
+}
